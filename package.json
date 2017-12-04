@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aceleradora-TW/overview-javascript/issues"
   },
-  "homepage": "https://github.com/aceleradora-TW/overview-javascript#readme"
+  "homepage": "https://github.com/aceleradora-TW/overview-javascript#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
